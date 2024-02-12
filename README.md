@@ -10,7 +10,6 @@
 * 🤝 Looking to collaborate on Web Development projects
 * ✉️  You can contact me at [sandalisingh1270@gmail.com](mailto:sandalisigh1270@gmail.com)
 
-<br/>
 <br />
 
 ## Connect with me
@@ -115,12 +114,6 @@
 <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"
         alt="vscode"
-        width="40"
-        height="40"
-      />&nbsp;
-<img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"
-        alt="webpack"
         width="40"
         height="40"
       />&nbsp;
